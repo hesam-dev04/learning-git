@@ -3,3 +3,7 @@ Version 1.0
 Feature A implemented
 Feature B implemented
 add some extera feature to feature section
+
+we have some new information here in order to make a conflict 
+with so called other branch
+
